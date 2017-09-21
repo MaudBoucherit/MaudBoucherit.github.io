@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently studying Data Science in UBC, Canada. Before that I was studying Statistics in ENSAI, France.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am from France and it is actually my first time in Canada. 
+I don't have any real work experience yet but I did several statistical projects as part of my study.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[maud.boucherit@gmail.com](mailto:maud.boucherit@gmail.com)
