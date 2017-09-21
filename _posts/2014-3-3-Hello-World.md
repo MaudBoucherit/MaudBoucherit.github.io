@@ -5,7 +5,7 @@ title: Recursive functions
 
 Have you ever heard of Amish friendship bread? It's a special recipe made from a sourdough starter. Part of this starter is used to bake cakes or to share with friends. But a cup of the starter has to be kept to start a new cycle: by adding one cup each of sugar, flour, and milk every five days, you get a new starter portion! Basically, this bread is using its own yeast to develop.
 
-![[source](http://www.saveur.com/amish-friendship-bread-baking-tradition)](AmishCake.jpg)
+[source](http://www.saveur.com/amish-friendship-bread-baking-tradition)](AmishCake.jpg)
 
 There is a similar concept in programming. Some functions can use their own values to calculate a new outcome. These are called *recursive functions*. Recursive functions work in two steps:
 * Just like Amish bread needs a sourdough starter, recursive functions need a *base case*;
